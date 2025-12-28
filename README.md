@@ -1,2 +1,2 @@
-# Foundations_of_Robotics_Final_Project
-Foundations of Robotics Final Project Patellaro Emmanuel P38000239
+## Foundations of Robotics Final Project
+🤖🦾 This repository contains the final project for the Foundations of Robotics (FoR) course taught by Professor Bruno Siciliano 🦾🤖
